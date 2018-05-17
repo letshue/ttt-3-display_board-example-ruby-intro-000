@@ -1,3 +1,6 @@
 def display_baord
-  puts "A Tic Tac Toe Board"
+cell = "||"
+divider = "-----------"
+puts cell
+puts divider
 end
